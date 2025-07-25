@@ -1,0 +1,4 @@
+- Attrition Rate: 16%
+- Highest Attrition in: Sales & HR
+- Job Satisfaction vs Attrition: Clear negative trend
+- Model Accuracy: 84%

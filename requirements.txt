@@ -1,0 +1,6 @@
+Python(install)
+pandas
+matplotlib
+seaborn
+scikit-learn
+Annaconda (Jupyter Notebook)
