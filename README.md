@@ -9,6 +9,7 @@ Employee attrition is a significant challenge for any organization. This Power B
 ## 🎯 Problem Statement
 
 Why are employees leaving the company?
+
 Despite competitive salaries and benefits, companies face high attrition rates. This project analyzes factors such as job role, department, age, education, job satisfaction, years at company, overtime, and income to uncover hidden trends behind employee exits.
 
 ## 📊 Overview
@@ -30,9 +31,12 @@ Here are some Screenshots of Dashboard
 
 <img width="1536" height="1024" alt="Mpdel_RelationshipVeiw" src="https://github.com/user-attachments/assets/fa8c748f-073f-4269-b84e-0a5d52d78da7" />
 
+
 ### Output
 
 <img width="978" height="600" alt="Screenshot" src="https://github.com/user-attachments/assets/5adc576c-838c-4706-8550-6cbb8d1313c0" />
+
+
 
 <img width="760" height="493" alt="Screenshot2" src="https://github.com/user-attachments/assets/0d4aafc0-03c2-4a56-aec1-3eeefdffcda0" />
 
