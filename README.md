@@ -73,8 +73,11 @@ Outcome: A dashboard with KPIs, trends, and recommendations to reduce churn
 ## ⚙️ Requirements
 
 Power BI Desktop
+
 IBM HR Attrition Dataset
+
 (Optional) Excel / CSV editing software
+
 Windows 10+ or equivalent for Power B
 
 ## 🙋‍♀️ Contributing
