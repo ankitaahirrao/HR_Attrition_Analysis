@@ -22,12 +22,19 @@ Despite competitive salaries and benefits, companies face high attrition rates. 
 
 Here are some Screenshots of Dashboard
 
-Overview Page
+### Overview Page
 <img width="1607" height="925" alt="HR_Attrirtion_Analysis" src="https://github.com/user-attachments/assets/34600646-5d68-4793-bcfa-d3a1c1716c4c" />
 
-Model And Relationship veiw
+
+### Model And Relationship veiw
 
 <img width="1536" height="1024" alt="Mpdel_RelationshipVeiw" src="https://github.com/user-attachments/assets/fa8c748f-073f-4269-b84e-0a5d52d78da7" />
+
+### Output
+
+<img width="978" height="600" alt="Screenshot" src="https://github.com/user-attachments/assets/5adc576c-838c-4706-8550-6cbb8d1313c0" />
+
+<img width="760" height="493" alt="Screenshot2" src="https://github.com/user-attachments/assets/0d4aafc0-03c2-4a56-aec1-3eeefdffcda0" />
 
 
 ## ✨ Features
