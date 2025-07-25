@@ -14,6 +14,7 @@ Despite competitive salaries and benefits, companies face high attrition rates. 
 ## 📊 Overview
 
 Tool Used: Power BI
+
 Dataset: IBM HR Analytics Employee Attrition & Performance Dataset
 Objective: Discover attrition drivers and provide HR-focused insights
 Outcome: A dashboard with KPIs, trends, and recommendations to reduce churn
