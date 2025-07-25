@@ -2,8 +2,8 @@
 
 This project analyzes employee attrition using HR Analytics data. It uses Python, pandas, seaborn, and logistic regression to explore and predict employee churn.This dashboard uncovers key drivers of attrition and delivers actionable insights to help organizations reduce turnover and improve workforce retention.
 
-
 ##📖 Introduction
+
 Employee attrition is a significant challenge for any organization. This Power BI project aims to identify patterns and trends in employee turnover using real-world HR data. The goal is to assist HR teams and decision-makers in understanding what drives employees to leave and how to proactively retain top talent.
 
 ##🎯 Problem Statement
