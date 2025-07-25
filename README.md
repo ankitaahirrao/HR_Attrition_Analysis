@@ -18,6 +18,18 @@ Despite competitive salaries and benefits, companies face high attrition rates. 
 - Objective: Discover attrition drivers and provide HR-focused insights
 - Outcome: A dashboard with KPIs, trends, and recommendations to reduce churn
 
+## Screenshots
+
+Here are some Screenshots of Dashboard
+
+Overview Page
+<img width="1607" height="925" alt="HR_Attrirtion_Analysis" src="https://github.com/user-attachments/assets/34600646-5d68-4793-bcfa-d3a1c1716c4c" />
+
+Model And Relationship veiw
+
+<img width="1536" height="1024" alt="Mpdel_RelationshipVeiw" src="https://github.com/user-attachments/assets/fa8c748f-073f-4269-b84e-0a5d52d78da7" />
+
+
 ## ✨ Features
 
 📈 Visual KPI Cards (Attrition Rate, Total Employees, Monthly Income Avg)
