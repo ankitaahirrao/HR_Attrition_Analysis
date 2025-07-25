@@ -7,16 +7,19 @@ This project analyzes employee attrition using HR Analytics data. It uses Python
 Employee attrition is a significant challenge for any organization. This Power BI project aims to identify patterns and trends in employee turnover using real-world HR data. The goal is to assist HR teams and decision-makers in understanding what drives employees to leave and how to proactively retain top talent.
 
 ##🎯 Problem Statement
+
 Why are employees leaving the company?
 Despite competitive salaries and benefits, companies face high attrition rates. This project analyzes factors such as job role, department, age, education, job satisfaction, years at company, overtime, and income to uncover hidden trends behind employee exits.
 
 📊 Overview
+
 Tool Used: Power BI
 Dataset: IBM HR Analytics Employee Attrition & Performance Dataset
 Objective: Discover attrition drivers and provide HR-focused insights
 Outcome: A dashboard with KPIs, trends, and recommendations to reduce churn
 
 ✨ Features
+
 📈 Visual KPI Cards (Attrition Rate, Total Employees, Monthly Income Avg)
 🧠 Attrition Breakdown by:
 -> Department
@@ -30,6 +33,7 @@ Outcome: A dashboard with KPIs, trends, and recommendations to reduce churn
 🖥️ Power BI Relationship View (Fact + Dimension Tables)
 
 🔍 Key Insights Gathered
+
 -> Employees with low job satisfaction and overtime work are more likely to leave.
 -> Attrition is highest among employees with 1–2 years at the company.
 -> Sales and Human Resources departments show higher attrition than R&D.
@@ -42,6 +46,7 @@ Outcome: A dashboard with KPIs, trends, and recommendations to reduce churn
 - scikit-learn
 
 💡 Recommendations
+
 - Implement employee engagement strategies focused on job satisfaction.
 - Monitor new employees closely for the first 2 years.
 - Introduce mentorship and career growth plans.
@@ -49,6 +54,7 @@ Outcome: A dashboard with KPIs, trends, and recommendations to reduce churn
 - Consider retention bonuses for high-risk groups.
 
 ⚙️ Requirements
+
 Power BI Desktop
 IBM HR Attrition Dataset
 (Optional) Excel / CSV editing software
