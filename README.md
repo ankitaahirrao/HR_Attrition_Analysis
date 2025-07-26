@@ -57,6 +57,31 @@ Here are some Screenshots of Dashboard
 🔁 Star Schema Data Model
 🖥️ Power BI Relationship View (Fact + Dimension Tables)
 
+## Dashboard sections
+🏗️ Dashboard Sections:
+KPI Cards:
+- Attrition Rate
+- Number of Employees
+- Average Monthly Income
+
+Slicer Filters:
+- Department
+- Education Field
+- Gender
+- Age Group
+- Job Role
+
+Visuals & Charts:
+- Attrition by Age, Department, Job Role
+- Boxplots for Income vs Attrition
+- Bar, Pie, and Clustered Column charts
+- Trend lines for tenure-based attrition
+
+Data Model:
+- Implemented a star schema
+- Created relationships between Employee, Department, JobRole, Education, Date tables
+- Ensured efficient filtering and DAX calculations
+
 ## 🔍 Key Insights Gathered
 
 - Employees with low job satisfaction and overtime work are more likely to leave.
